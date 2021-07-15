@@ -10,10 +10,10 @@ It can simply parse and save links from almost any site. It uses multithreading 
 
 ### How to use?
 
- - Download release, or you can use source code if you want
+ - [Download release](https://github.com/Sasha2dx/Tentacle/releases), or you can use source code if you want
  - Properly setup linkParser.properties regarding to descriptions in it
  - Run and wait for result, for windows you can simply run by launching RunTentacle.bat which included in release archive
 
 ### About
 
-It can be poorly optimised somevhere, but i don't care. You can suggest your suggestions if you want, or just use as it is until it works, also modify for your purposes and etc. It was writen few years ago for different purposes.
+It can be poorly optimised somevhere, but i don't care. You can suggest your suggestions if you want, or just use as it is until it works, also modify for your purposes and etc. It was writen few years ago for different purposes, now in 2021 i've upload it here, because i don't want store different old stuff on my PC anymore.
